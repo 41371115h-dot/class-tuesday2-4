@@ -9,6 +9,11 @@
 作業一網址: https://41371115h-dot.github.io/project-one/Index.html
 
 作業二影片連結:
+
 我修改的地方:
+
 將它顯示成一個提供解決星座問題的聊天對話框
+
 透過函式庫改善粗體指令無法顯示的問題
+<img width="1146" height="795" alt="image" src="https://github.com/user-attachments/assets/5d7b1be1-68ae-492f-bae1-4c40c73701e0" />
+
