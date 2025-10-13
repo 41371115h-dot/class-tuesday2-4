@@ -6,9 +6,11 @@
 
 系級：科技系2年級
 
-作業一網址: https://41371115h-dot.github.io/project-one/Index.html
+[作業一網址](https://41371115h-dot.github.io/project-one/Index.html)
 
-作業二影片連結:https://youtu.be/im9UKTA_Oic
+[作業二影片連結](https://youtu.be/im9UKTA_Oic)
+
+[作業二AItest.tsx](https://github.com/41371115h-dot/class-tuesday2-4/blob/main/AItest.tsx)
 
 我修改的地方:
 
