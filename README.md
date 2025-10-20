@@ -12,9 +12,10 @@
 
 [作業二AItest.tsx](https://github.com/41371115h-dot/class-tuesday2-4/blob/main/AItest.tsx)
 
-我修改的地方:
+作業二修改的地方:
 
 將它顯示成一個提供解決星座問題的聊天對話框
 
 透過函式庫改善粗體指令無法顯示的問題
 
+[作業三影片連結]()
