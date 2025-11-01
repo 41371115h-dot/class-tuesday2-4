@@ -27,6 +27,8 @@
 使用的API : Gemini
 <img width="1919" height="780" alt="image" src="https://github.com/user-attachments/assets/5de7931b-b344-4669-83bd-43e42a1cf50b" />
 
-[作業四]()
+[作業四render連結](https://homework4-1-lwnm.onrender.com)
+
+[作業四repo連結](https://github.com/41371115h-dot/homework4)
 
 
